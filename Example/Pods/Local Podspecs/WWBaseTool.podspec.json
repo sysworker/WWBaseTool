@@ -1,0 +1,22 @@
+{
+  "name": "WWBaseTool",
+  "version": "0.1.0",
+  "summary": "A short description of WWBaseTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wang bowen/WWBaseTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wang bowen": "sysworker@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wang bowen/WWBaseTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WWBaseTool/Classes/**/*"
+}

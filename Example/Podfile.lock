@@ -1,0 +1,16 @@
+PODS:
+  - WWBaseTool (0.1.0)
+
+DEPENDENCIES:
+  - WWBaseTool (from `../`)
+
+EXTERNAL SOURCES:
+  WWBaseTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WWBaseTool: af3344466342d2ae84206e6d333c3b2bc8b0ed07
+
+PODFILE CHECKSUM: 360da13702af885dc03cf8ae4fce53c1e1c60bf8
+
+COCOAPODS: 1.11.2
